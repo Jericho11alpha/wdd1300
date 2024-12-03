@@ -1,0 +1,24 @@
+:root {
+    --primary-color: #D8E3A0;
+    --secondary-color: #002400;
+    --accent1-color: #273B09;
+    --accent2-color: #232815;
+
+    /* Font for the page (Both Heading, text font  */
+    --heading-font: "Roboto";
+    --text-font: "Inknut Antiqua";
+}
+
+
+.header {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+}
+
+nav a {
+    margin: 8px;
+    text-decoration: none;
+}

@@ -1,0 +1,41 @@
+:root {
+    --primary-color: #D8E3A0;
+    --secondary-color: #002400;
+    --accent1-color: #273B09;
+    --accent2-color: #232815;
+
+    /* Font for the page (Both Heading, text font  */
+    --heading-font: "Roboto";
+    --text-font: "Inknut Antiqua";
+}
+
+body {
+    text-align: justify;
+}
+
+header img {
+    width: 400px;
+    border: 1px solid black;
+    position: relative;
+    top: 50px;
+    right: 50px;
+    margin-bottom: 50px;
+    background-color: #D8E3A0;
+
+}
+
+.hero {
+    position: relative;   
+    width: 100%;
+}
+
+h1 {
+    position: absolute;
+}
+
+.hero-image {
+    float: right;
+}
+p{
+    position: relative;
+}

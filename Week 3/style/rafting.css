@@ -1,0 +1,26 @@
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 0 0 30px gray;
+
+}
+
+nav a { 
+    color: #d83f18;
+    margin: 0;
+    padding: 1px;
+    background-color: aqua;
+    border: 1px solid black;
+    position: relative;
+    margin: 5px;
+}
+
+header {
+        background-color: #fcfdfc;
+        border: 1px solid black;
+        position: relative;
+        padding: 10px;
+        
+}
